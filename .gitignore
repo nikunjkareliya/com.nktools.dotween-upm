@@ -1,0 +1,15 @@
+# Unity generated folders
+[Uu]nity/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# OS generated
+.DS_Store
+Thumbs.db
+Desktop.ini
