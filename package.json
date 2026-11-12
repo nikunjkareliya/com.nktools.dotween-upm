@@ -1,6 +1,6 @@
 {
   "name": "com.demigiant.dotween",
-  "version": "1.3.45",
+  "version": "1.3.46",
   "displayName": "DOTween (UPM)",
   "description": "A fast, efficient, fully type-safe object-oriented animation engine for Unity, packaged for Unity Package Manager.",
   "unity": "2022.3",
